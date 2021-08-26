@@ -25,7 +25,7 @@ Falta de incentivo do turismo ecológico na cidade de Mongaguá.
 * Listagem dos hoteis disponíves, com um sistema de avaliação.
 * Contratação de serviços de turismo ecológico.
 
-# ✍️ Desenho da solução
+## ✍️ Desenho da solução
 
   **MongaTour** é um projeto **descontinuado**, criado durante o Hackaton realizado na Etec Adolpho Berezin em setembro de 2019, com tema de "Turismo Ecológico" (Software 100% Livre). Foi desenvolvida em HTML, CSS e JavaScript.
   
