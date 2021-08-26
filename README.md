@@ -39,4 +39,14 @@ Falta de incentivo do turismo ecológico na cidade de Mongaguá.
 * CSS
 * JAVASCRIPT
 
+
+## 🚧 Updates
+ v1.01 (26 de agosto de 2021):
+ * Arquivo .rar excluido.
+ * Repositório Inovado.
+ * Adicionada Licença MIT.
+
+ v1.00 (20 de setembro de 2019):
+ * Lançado MongaTour no GitHub.
+ 
 <br><h4 align=center>Made with by <a target="_blank" href="https://github.com/LeoVanelli" >Leandro Vanelli</a></h4>
