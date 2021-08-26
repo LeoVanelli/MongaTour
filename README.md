@@ -6,6 +6,8 @@ Repositório do projeto "MongaTour" ❤️, desenvolvido durante o Hackathon Ete
 
 Criar um software com o tema de Turismo Ecológico para a cidade de Mongaguá.
 
+![Alt Text](/img slides/home.png?raw=true "aa")
+
 ## ⚡ Problema
 
 Falta de incentivo do turismo ecológico na cidade de Mongaguá.
@@ -16,16 +18,16 @@ Falta de incentivo do turismo ecológico na cidade de Mongaguá.
 * 📷 Permitir que usuários possam contratar serviços de guias de turismo especializados em Turismo Ecológico em Mongaguá.
 * 💃 Divulgar eventos que estejam acontecendo na cidade.
 
-## Conjunto de Funcionalidades
+## 📚 Conjunto de Funcionalidades
 
 * Listagem dos principais pontos turísticos de Mongaguá.
 * Cadastro, inserção e busca de novos eventos que estejam agendados ou que estão acontecendo em Mongaguá.
 * Listagem dos hoteis disponíves, com um sistema de avaliação.
 * Contratação de serviços de turismo ecológico.
 
-### Desenho da solução
+# ✍️ Desenho da solução
 
-  **MongaTour** é um projeto criado durante o Hackaton realizado na Etec Adolpho Berezin em setembro de 2019, com tema de "Turismo Ecológico" (Software 100% Livre). Foi desenvolvida em HTML, CSS e JavaScript.
+  **MongaTour** é um projeto **descontinuado**, criado durante o Hackaton realizado na Etec Adolpho Berezin em setembro de 2019, com tema de "Turismo Ecológico" (Software 100% Livre). Foi desenvolvida em HTML, CSS e JavaScript.
   
   As atividades chaves que definem este projeto são a prestação de serviço, via publicidade de eventos e contratação de guias turísticos, e a divulgação dos pontos turísticos ecológicos de Mongaguá.
   
