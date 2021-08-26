@@ -2,11 +2,11 @@
 
 Repositório do projeto "MongaTour" ❤️, desenvolvido durante o Hackathon Etec Adolpho Berezin 2019/09
 
+![Página inicial do MongaTour](home.png)
+
 ## 📜 Proposta
 
 Criar um software com o tema de Turismo Ecológico para a cidade de Mongaguá.
-
-![Alt Text](/img slides/home.png?raw=true "aa")
 
 ## ⚡ Problema
 
