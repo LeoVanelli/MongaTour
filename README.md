@@ -1,4 +1,4 @@
-# MongaTour (Re-Upload)
+<h1 align="center">MongaTour (Re-Upload)</h1>
 
 Repositório do projeto "MongaTour" ❤️, desenvolvido durante o Hackathon Etec Adolpho Berezin 2019/09
 
